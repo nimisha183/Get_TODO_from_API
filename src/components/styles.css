@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wrapper {
+  padding: 30px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  max-width: 480px;
+}
+
+.post {
+  padding: 25px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.loading {
+  text-align: center;
+}
